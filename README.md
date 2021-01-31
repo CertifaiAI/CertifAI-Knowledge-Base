@@ -14,7 +14,7 @@ To-do:
 * set-up wiki
 * flow for entire process
 <p align="center">
-  <img align="left" width="650" height="360" src="metadata/flow_chart.jpeg"/>
+  <img align="middle" width="650" height="360" src="metadata/flow_chart.jpeg"/>
 </p>
 
 * GitHub Project skeleton

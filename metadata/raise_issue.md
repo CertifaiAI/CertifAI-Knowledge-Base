@@ -29,11 +29,11 @@ If there are any changes to specific issue that requires revision will be placed
 Example : documentation is outdated.
 
 <p align="center">
-  <img align="left" width="650" height="360" src="0.png"/>
+  <img align="middle" width="650" height="360" src="0.png"/>
 </p>
 
 *How to move project from one column to another*
 
 <p align="center">
-  <img align="left" width="650" height="360" src="0.gif"/>
+  <img align="middle" width="650" height="360" src="0.gif"/>
 </p>
