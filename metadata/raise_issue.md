@@ -1,9 +1,9 @@
-#Instruction of raising a Common Issue
+# Instruction of raising a Common Issue
 The common issue platform is built to serve the purpose of answering repeatedly asked questions by common users.
 
 Please follow the instuctions while raising an issue. This will ensure the issue raised will be documented and traced properly.
 
-###Raise the issue at the right place
+### Raise the issue at the right place
 Following links will lead you to the issue template for raising issue. 
 - [IntelliJ & DL4J lab]()
 - [Computer Vision Lab]()
@@ -12,7 +12,7 @@ Following links will lead you to the issue template for raising issue.
 
 Provide the information as required in the template.
 
-###Paste the issue link to the project as stated in the template at the right column
+### Paste the issue link to the project as stated in the template at the right column
 There are four columns in each project. Please place them at the right column
 - help required
   
