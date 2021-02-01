@@ -33,19 +33,19 @@ Following links will lead you to the related project.
 - [Time Series Lab]()
 - [Classifai](https://github.com/CertifaiAI/certifai-wiki/projects/2)
 
-Copy the link of issue and paste it at the project.
+Add the right project to the issue
 <p align="center">
-  <img align="middle" src="metadata/0.png"/>
+  <img align="middle" src="metadata/1.gif"/>
 </p>
 
 There are four columns in each project. Please place them at the right column. 
 1. The issue with help/solution required will put under *help required*
-2. Answered issues but not documented will put under *documented required*. Whenever a document is put in this column. Make sure the issue is closed.
+2. Answered issues but not documented will put under *documented required*. Whenever a document is put in this column, make sure the issue is closed.
 
 *How to move project from one column to another*
 
 <p align="center">
-  <img align="middle" width="650" height="360" src="metadata/0.gif"/>
+  <img align="middle" src="metadata/0.gif"/>
 </p>
 
 ### Step 3 : Documentation
@@ -55,6 +55,9 @@ All answered issues must be documented properly in [wiki](https://github.com/Cer
 2. Make a new page with same title
 3. Document the answer in the way that is easy to understand
 4. Edit the main page of wiki. Put it under the right category as the format: "[Title] (link to the document)"
+<p align="center">
+  <img align="middle" src="metadata/1.png"/>
+</p>
 5. In the project, move to *documented* category.
 
 ### Step 4 : Revision required
