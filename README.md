@@ -19,18 +19,18 @@ Please follow the instuctions while raising an issue. This will ensure the issue
 
 ### Step 1 : Raise the issue at the right place
 Following links will lead you to the issue template for raising issue.
-- [IntelliJ & DL4J lab]()
+- [IntelliJ & DL4J lab](https://github.com/CertifaiAI/certifai-wiki/issues/new?assignees=&labels=TrainingLabs+common+issue&template=traininglabs-common-issue.md&title=COMMON+ISSUES%3A+%5BISSUE+TITLE%5D)
 - [Computer Vision Lab]()
-- [Time Series Lab]()
+- [Time Series Lab](https://github.com/CertifaiAI/certifai-wiki/issues/new?assignees=&labels=time-series-labs+common+issue&template=time-series-labs-common-issues.md&title=COMMON+ISSUE%3A+%5BISSUE+TITLE%5D)
 - [Classifai](https://github.com/CertifaiAI/certifai-wiki/issues/new?assignees=&labels=classifai+common+issue&template=classifai_common_issue.md&title=COMMON+ISSUE%3A+%5BISSUE+TITLE%5D)
 
 Provide the information as required in the template.
 
 ### Step 2 : Put the issues under the right project
 Following links will lead you to the related project.
-- [IntelliJ & DL4J lab]()
-- [Computer Vision Lab]()
-- [Time Series Lab]()
+- [IntelliJ & DL4J lab](https://github.com/CertifaiAI/certifai-wiki/projects/5)
+- [Computer Vision Lab](https://github.com/CertifaiAI/certifai-wiki/projects/4)
+- [Time Series Lab](https://github.com/CertifaiAI/certifai-wiki/projects/3)
 - [Classifai](https://github.com/CertifaiAI/certifai-wiki/projects/2)
 
 Add the right project to the issue
@@ -51,13 +51,14 @@ There are four columns in each project. Please place them at the right column.
 ### Step 3 : Documentation
 All answered issues must be documented properly in [wiki](https://github.com/CertifaiAI/certifai-wiki/wiki) with clear instructions/ screenshots. The documents are aimed to solve users problem without extra human assistant.
 
-1. Copy the title from project that is in the *documented required* column
+1. Copy the title from project that is in the *documentation required* column
 2. Make a new page with same title
 3. Document the answer in the way that is easy to understand
 4. Edit the main page of wiki. Put it under the right category as the format: "[Title] (link to the document)"
 <p align="center">
   <img align="middle" src="metadata/1.png"/>
 </p>
+
 5. In the project, move to *documented* category.
 
 ### Step 4 : Revision required
