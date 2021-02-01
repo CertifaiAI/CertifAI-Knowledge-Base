@@ -8,7 +8,7 @@ Following links will lead you to the issue template for raising issue.
 - [IntelliJ & DL4J lab]()
 - [Computer Vision Lab]()
 - [Time Series Lab]()
-- [Classifai]()
+- [Classifai](https://github.com/CertifaiAI/certifai-wiki/issues/new?assignees=&labels=classifai+common+issue&template=classifai_common_issue.md&title=COMMON+ISSUE%3A+%5BISSUE+TITLE%5D)
 
 Provide the information as required in the template.
 

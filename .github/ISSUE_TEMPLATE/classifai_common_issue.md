@@ -8,7 +8,7 @@ assignees: ''
 ---
 **To-do**
 1. Tag anyone if help is required
-2. Copy this issue link to [certifai-wiki project](https://github.com/CertifaiAI/certifai-wiki/projects/2). [Instructions]()
+2. Copy this issue link to [certifai-wiki project](https://github.com/CertifaiAI/certifai-wiki/projects/2).
 
 **Describe the issue**
 A clear and concise description of what the bug is.
