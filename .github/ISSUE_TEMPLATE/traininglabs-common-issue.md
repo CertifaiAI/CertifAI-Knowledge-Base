@@ -1,9 +1,9 @@
 ---
-name: Classifai Common Issue
+name: TrainingLabs Common Issue
 about: Describe an issue faced by users/ Issue that users are not clear about for
-  Classifai
-title: 'COMMON ISSUE: [ISSUE TITLE]'
-labels: classifai common issue
+  TrainingLabs
+title: 'COMMON ISSUES: [ISSUE TITLE]'
+labels: TrainingLabs common issue
 assignees: ''
 
 ---

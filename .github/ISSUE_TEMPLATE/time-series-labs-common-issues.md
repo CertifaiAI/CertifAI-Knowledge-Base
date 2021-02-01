@@ -1,9 +1,9 @@
 ---
-name: Classifai Common Issue
+name: time-series-labs Common Issues
 about: Describe an issue faced by users/ Issue that users are not clear about for
-  Classifai
+  time-series-labs
 title: 'COMMON ISSUE: [ISSUE TITLE]'
-labels: classifai common issue
+labels: time-series-labs common issue
 assignees: ''
 
 ---
