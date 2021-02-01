@@ -1,11 +1,13 @@
 ---
 name: Classifai Common Issue
-about: Describe an issue faced by users/ Issue that users are not clear about for Classifai
+about: Describe an issue faced by users/ Issue that users are not clear about for
+  Classifai
 title: 'COMMON ISSUE: [ISSUE TITLE]'
 labels: classifai common issue
 assignees: ''
 
 ---
+
 **To-do**
 1. Tag anyone if help is required
 2. Copy this issue link to [certifai-wiki project](https://github.com/CertifaiAI/certifai-wiki/projects/2).
@@ -30,5 +32,3 @@ If applicable, add screenshots/video to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
-
-
