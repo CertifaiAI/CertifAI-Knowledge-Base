@@ -4,7 +4,7 @@ This is a documentation of issues that are faced by users. It aims to assist cer
 
 There are 4 categories:
 1. ClassifAI 
-2. DL4J and TrainingLabs
+2. TrainingLabs
 3. Time series labs
 4. Computer vision issues
 
