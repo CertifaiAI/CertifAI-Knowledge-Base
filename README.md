@@ -63,6 +63,7 @@ All answered issues must be documented properly in [wiki](https://github.com/Cer
 
 ### Step 4 : Revision required
 If anyone finds a documentation is outdated/ not helpful, please follow steps below.
+
 **Case 1**
 1. If you know the answer, edit it.
 2. End of the story.
