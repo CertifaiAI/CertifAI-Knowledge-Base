@@ -85,6 +85,8 @@ All answered issues must be documented properly in [wiki](https://github.com/Cer
 </p>   
 
 4. Document the answer in the way that is easy to understand. You can follow the guidelines from the [template given]().
+   
+
 5. Edit the main page of wiki. 
 <p align="center">
   <img align="middle" src="metadata/7.png"/>
@@ -98,7 +100,12 @@ All answered issues must be documented properly in [wiki](https://github.com/Cer
   <img align="middle" src="metadata/8.png"/>
 </p>
 
-5. In the project, move to *documented* category.
+*result*
+<p align="center">
+  <img align="middle" src="metadata/9.png"/>
+</p>
+
+7. In the project, move to *documented* category.
 
 ## Revision required
 If anyone finds a documentation is outdated/ not helpful, please follow steps below.
