@@ -1,14 +1,15 @@
 # How to Quickly Identify Problem Faced by Community? 
 
 ## TLDR;
-1. Get as much of factual information surrounding the problem. 
+1. **Get as much of factual information surrounding the problem.** 
     - Operating System
     - Software Version
     - Specific Program to Run
     - Environment Setup
     - Intention / Motivation of the action
     
-2. If could not identify problem through the first step, focus on suggest the workarounds to solve the immediate pain,  
+2. **Provide workaround.**  
+If could not identify problem through the first step, focus on suggest the workarounds to solve the immediate pain,  
    then spend time in replicating the problem on own system (in order to start solving the problem).
 
 
@@ -67,6 +68,6 @@ This can narrow down the scope of searching.
   
 On some occasions, we can also suggest a better way of execution after truly understands the intention behind the action of doing something.
 
-### Step 2
+### Optional Step 2: Provide Workaround
 If could not identify problem through the first step, focus on suggest the workarounds to solve the immediate pain,  
    then spend time in replicating the problem on own system (in order to start solving the problem).
