@@ -17,30 +17,48 @@ There are 4 categories:
 
 Please follow the instuctions while raising an issue. This will ensure the issue raised will be documented and traced properly.
 
-### Step 1 : Raise the issue at the right place
+##Raising issue
 Following links will lead you to the issue template for raising issue.
 - [TrainingLabs](https://github.com/CertifaiAI/certifai-wiki/issues/new?assignees=&labels=TrainingLabs+common+issue&template=traininglabs-common-issue.md&title=COMMON+ISSUES%3A+%5BISSUE+TITLE%5D)
 - [Computer Vision](https://github.com/CertifaiAI/certifai-wiki/issues/new?assignees=&labels=computer+vision+common+issue&template=computer-vision-issue.md&title=COMMON+ISSUE%3A+%5BISSUE+TITLE%5D)
 - [Time Series Labs](https://github.com/CertifaiAI/certifai-wiki/issues/new?assignees=&labels=time-series-labs+common+issue&template=time-series-labs-common-issue.md&title=COMMON+ISSUE%3A+%5BISSUE+TITLE%5D)
 - [Classifai](https://github.com/CertifaiAI/certifai-wiki/issues/new?assignees=&labels=classifai+common+issue&template=classifai_common_issue.md&title=COMMON+ISSUE%3A+%5BISSUE+TITLE%5D)
 
-Provide the information as required in the template.
+### What to Fill up in Issue Template
+<p align="center">
+  <img align="middle" src="metadata/3.png"/>
+</p>
 
-### Step 2 : Put the issues under the right project
+1. Title :  must be **short** and **informative**.
+2. Assignees : Assign yourself as the assignee
+3. Content: Provide the information as required in the template.
+4. Submit the issue first.
+5. Projects : Assign the related project as instructed in the *gif* below.
+
+<p align="center">
+  <img align="middle" src="metadata/1.gif"/>
+</p>
+
+### Step 2 : Projects
 Following links will lead you to the related project.
 - [TrainingLabs Support](https://github.com/CertifaiAI/certifai-wiki/projects/5)
 - [Computer Vision Support](https://github.com/CertifaiAI/certifai-wiki/projects/4)
 - [Time Series Labs Support](https://github.com/CertifaiAI/certifai-wiki/projects/3)
 - [Classifai Support](https://github.com/CertifaiAI/certifai-wiki/projects/2)
 
-Add the right project to the issue
-<p align="center">
-  <img align="middle" src="metadata/1.gif"/>
-</p>
-
 There are four columns in each project. Please place them at the right column. 
-1. The issue with help/solution required will put under *help required*
-2. Answered issues but not documented will put under *documented required*. Whenever a document is put in this column, make sure the issue is closed.
+1. help required 
+   
+The issue with help/solution required will put under this column.
+2. documented required
+   
+Answered issues but not documented will put under this column. Whenever a document is put in this column, make sure the issue is closed.
+3. documented
+
+Well documented issues will be put under this column.
+4. revision required
+
+Documented issues but required revision due to any reason will put under this column. Whenever a document is put in this column, make sure the issue is reopened.
 
 *How to move project from one column to another*
 
@@ -52,11 +70,32 @@ There are four columns in each project. Please place them at the right column.
 All answered issues must be documented properly in [wiki](https://github.com/CertifaiAI/certifai-wiki/wiki) with clear instructions/ screenshots. The documents are aimed to solve users problem without extra human assistant.
 
 1. Copy the title from project that is in the *documentation required* column
-2. Make a new page with same title
-3. Document the answer in the way that is easy to understand
-4. Edit the main page of wiki. Put it under the right category as the format: "[Title] (link to the document)"
 <p align="center">
-  <img align="middle" src="metadata/1.png"/>
+  <img align="middle" src="metadata/4.png"/>
+</p>
+
+2. Create a new page
+<p align="center">
+  <img align="middle" src="metadata/5.png"/>
+</p>
+
+3. Paste the title of issue as the tile of the page created. remove the **[COMMON ISSUE]**
+<p align="center">
+  <img align="middle" src="metadata/6.png"/>
+</p>   
+
+4. Document the answer in the way that is easy to understand. You can follow the guidelines from the [template given]().
+5. Edit the main page of wiki. 
+<p align="center">
+  <img align="middle" src="metadata/7.png"/>
+</p>
+
+6. Put it under the right category as the format: 
+   ```
+   [Title](link to the page)
+   ```
+<p align="center">
+  <img align="middle" src="metadata/8.png"/>
 </p>
 
 5. In the project, move to *documented* category.
