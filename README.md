@@ -84,7 +84,7 @@ All answered issues must be documented properly in [wiki](https://github.com/Cer
   <img align="middle" src="metadata/6.png"/>
 </p>   
 
-4. Document the answer in the way that is easy to understand. You can follow the guidelines from the [template given]().
+4. Document the answer in the way that is easy to understand. You can follow the guidelines from the [template given](https://github.com/CertifaiAI/certifai-wiki/wiki/Wiki-Page-Template).
    
 
 5. Edit the main page of wiki. 
