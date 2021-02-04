@@ -17,7 +17,7 @@ There are 4 categories:
 
 Please follow the instuctions while raising an issue. This will ensure the issue raised will be documented and traced properly.
 
-##Raising issue
+## Raising issue
 Following links will lead you to the issue template for raising issue.
 - [TrainingLabs](https://github.com/CertifaiAI/certifai-wiki/issues/new?assignees=&labels=TrainingLabs+common+issue&template=traininglabs-common-issue.md&title=COMMON+ISSUES%3A+%5BISSUE+TITLE%5D)
 - [Computer Vision](https://github.com/CertifaiAI/certifai-wiki/issues/new?assignees=&labels=computer+vision+common+issue&template=computer-vision-issue.md&title=COMMON+ISSUE%3A+%5BISSUE+TITLE%5D)
@@ -39,7 +39,7 @@ Following links will lead you to the issue template for raising issue.
   <img align="middle" src="metadata/1.gif"/>
 </p>
 
-### Step 2 : Projects
+## Projects
 Following links will lead you to the related project.
 - [TrainingLabs Support](https://github.com/CertifaiAI/certifai-wiki/projects/5)
 - [Computer Vision Support](https://github.com/CertifaiAI/certifai-wiki/projects/4)
@@ -66,7 +66,7 @@ Documented issues but required revision due to any reason will put under this co
   <img align="middle" src="metadata/0.gif"/>
 </p>
 
-### Step 3 : Documentation
+## Documentation
 All answered issues must be documented properly in [wiki](https://github.com/CertifaiAI/certifai-wiki/wiki) with clear instructions/ screenshots. The documents are aimed to solve users problem without extra human assistant.
 
 1. Copy the title from project that is in the *documentation required* column
@@ -100,7 +100,7 @@ All answered issues must be documented properly in [wiki](https://github.com/Cer
 
 5. In the project, move to *documented* category.
 
-### Step 4 : Revision required
+## Revision required
 If anyone finds a documentation is outdated/ not helpful, please follow steps below.
 
 **Case 1**
