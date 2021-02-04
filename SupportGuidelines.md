@@ -25,7 +25,7 @@ The one and most important idea to **not** have in mind is
 
 There are multiple reasons why a program might not be working on other system but working on your system.  
 Do not simply brush off/demotivate audiences based on how it supposed to run / work by its nature.  
-Down to the fundamentals, people are asking questions because there's something obviously wrong with it. 
+Down to the fundamentals, people are asking questions because **there's obviously something wrong with it.** 
 
 ![Think](metadata/think.gif)
 
@@ -62,7 +62,7 @@ Some of the examples are:
 - Dependency of different variants and versions which were not supported by the program 
 
 **3. Environment Setup**
-- Intention / Motivation of the action
+- Intention / Motivation of the action.  
 Identify what's the intention of the action or which program's user wants to run.  
 This can narrow down the scope of searching.  
   
