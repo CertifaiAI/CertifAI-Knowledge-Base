@@ -47,18 +47,18 @@ Following links will lead you to the related project.
 - [Classifai Support](https://github.com/CertifaiAI/certifai-wiki/projects/2)
 
 There are four columns in each project. Please place them at the right column. 
-1. help required 
+-  **help required**
    
-The issue with help/solution required will put under this column.
-2. documented required
+   The issue with help/solution required will put under this column.
+-  **documented required**
    
-Answered issues but not documented will put under this column. Whenever a document is put in this column, make sure the issue is closed.
-3. documented
+   Answered issues but not documented will put under this column. Whenever a document is put in this column, make sure the issue is closed.
+-  **documented**
 
-Well documented issues will be put under this column.
-4. revision required
+   Well documented issues will be put under this column.
+-  **revision required**
 
-Documented issues but required revision due to any reason will put under this column. Whenever a document is put in this column, make sure the issue is reopened.
+   Documented issues but required revision due to any reason will put under this column. Whenever a document is put in this column, make sure the issue is reopened.
 
 *How to move project from one column to another*
 
@@ -79,7 +79,7 @@ All answered issues must be documented properly in [wiki](https://github.com/Cer
   <img align="middle" src="metadata/5.png"/>
 </p>
 
-3. Paste the title of issue as the tile of the page created. remove the **[COMMON ISSUE]**
+3. Paste the title of issue as the tile of the page created. remove the **COMMON ISSUE:**
 <p align="center">
   <img align="middle" src="metadata/6.png"/>
 </p>   
