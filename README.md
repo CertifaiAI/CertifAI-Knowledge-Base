@@ -2,11 +2,12 @@
 
 This is a documentation of issues that are faced by users. It aims to assist certifai support team to answer repeatedly asked questions by providing properly documented links.
 
-There are 4 categories:
+There are 5 categories:
 1. ClassifAI 
 2. TrainingLabs
 3. Time series labs
 4. Computer vision issues
+5. Learn-Java-the-CertifAI-Way 
 
 ## Process flow
 <p align="center">
