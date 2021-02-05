@@ -2,7 +2,7 @@
 name: time-series-labs Common Issue
 about: Describe an issue faced by users/ Issue that users are not clear about for
   time-series-labs
-title: 'COMMON ISSUE: [ISSUE TITLE]'
+title: '[ISSUE TITLE]'
 labels: time-series-labs common issue
 assignees: ''
 

@@ -2,7 +2,7 @@
 name: Classifai Common Issue
 about: Describe an issue faced by users/ Issue that users are not clear about for
   Classifai
-title: 'COMMON ISSUE: [ISSUE TITLE]'
+title: '[ISSUE TITLE]'
 labels: classifai common issue
 assignees: ''
 

@@ -2,7 +2,7 @@
 name: Computer Vision Issue
 about: Describe an issue faced by users/ Issue that users are not clear about for
   computer vision
-title: 'COMMON ISSUE: [ISSUE TITLE]'
+title: '[ISSUE TITLE]'
 labels: computer vision common issue
 assignees: ''
 
