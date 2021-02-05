@@ -2,7 +2,7 @@
 name: learn-java-the-certifai-way Common Issue
 about: Describe an issue faced by users/ Issue that users are not clear about for
   TrainingLabs
-title: 'COMMON ISSUES: [ISSUE TITLE]'
+title: '[ISSUE TITLE]'
 labels: TrainingLabs common issue
 assignees: ''
 
