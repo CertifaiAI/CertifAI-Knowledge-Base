@@ -54,7 +54,7 @@ Following links will lead you to the issue template for raising issue.
 
 ![](metadata/1.gif)
 
-####*How to add issue manually in project*
+#### *How to add issue manually in project*
 ![](metadata/2.gif)
 
 
