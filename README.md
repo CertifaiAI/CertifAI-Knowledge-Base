@@ -129,3 +129,8 @@ If anyone finds a documentation is outdated/ not helpful, please follow steps be
 **Case 2**
 1. If you do not know the answer, move it to *under revision* column, tag someone you think may help you.
 2. Once it is answered and well documented, move it back to *solved (reviewed)* column.
+
+## Mind Optimizer 
+Mind Optimizer is a CertifAI project in teamwork project, which aim to help engineers to **improve their ability** of **problem identification** and **problem solving** through supporting users with their problem in discord and other channels.
+
+[Walkthrough](https://github.com/CertifaiAI/CertifAI-Knowledge-Base/blob/main/MindOptimizer.md)
