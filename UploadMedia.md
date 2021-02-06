@@ -1,4 +1,4 @@
-#Upload Media in Wiki
+# Upload Media in Wiki
 We cannot directly drag the image to the wiki page to import it (like how it does in issue raising). Therefore here's a walkaround for you!
 ### Step 1: Go to any issue 
 

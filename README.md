@@ -70,16 +70,16 @@ Following links will lead you to the related project.
 There are four columns in each project. Please place them at the right column. 
 -  **to do**
    
-   The issue that needed to be solved will be put here.
+   The issue that needed to be solved will be putting under this column.
 -  **in progress**
    
-   Issue with solution is still under preparation will be put here. 
+   Issue with solution is still under preparation will be putting under this column. 
 -  **under revision**
 
-   Solution prepared that requires review / revision will be put here. **Tag** the senior engineers you would like them to review your solution.
+   Solution prepared that requires review / revision will be puttting under this column. **Tag** the senior engineers you would like them to review your solution.
 -  **solved (reviewed)**
    
-   Solution upon approved will be put here.
+   Solution upon approved will be putting under this column.
 
 **How to move project from one column to another**
 ![](metadata/0.gif)
@@ -94,6 +94,7 @@ All answered issues must be documented properly in [wiki](https://github.com/Cer
 2. Name the title as concise as possible. 
 
 *Example*: To solve issue **Command Line is too long error**, the name of solution would be **Shorten Command Line**
+![](metadata/16.png)
 
 
 3. Document the answer in the way that is easy to understand. You can follow the guidelines from the [template given](https://github.com/CertifaiAI/certifai-wiki/wiki/Wiki-Page-Template). In this step, you'll probably faced a problem on uploading media. We have a [walkaround](UploadMedia.md) for you.
