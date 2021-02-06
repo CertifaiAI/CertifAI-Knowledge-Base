@@ -50,11 +50,11 @@ Following links will lead you to the issue template for raising issue.
 2. Assignees : Assign the issue to someone. It's either yourself, or anyone is responsible.
 3. Content: Provide the information as required in the template.
 4. Submit the issue first.
-5. Projects : Assign the related project as instructed in the *gif* below. Or, [add it manually](https://github.com/CertifaiAI/CertifAI-Knowledge-Base#projects) in [project](https://github.com/CertifaiAI/CertifAI-Knowledge-Base#projects)
+5. Projects : Assign the related project as instructed in the *gif* below. Or, add it manually in [project](https://github.com/CertifaiAI/CertifAI-Knowledge-Base#projects)
 
 ![](metadata/1.gif)
 
-#### *How to add issue manually in project*
+**How to add issue manually in project**
 ![](metadata/2.gif)
 
 
