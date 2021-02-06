@@ -55,6 +55,7 @@ Following links will lead you to the issue template for raising issue.
 ![](metadata/1.gif)
 
 **How to add issue manually in project**
+
 ![](metadata/2.gif)
 
 
@@ -80,7 +81,7 @@ There are four columns in each project. Please place them at the right column.
    
    Solution upon approved will be put here.
 
-####*How to move project from one column to another*
+**How to move project from one column to another**
 ![](metadata/0.gif)
 
 ## Documentation
