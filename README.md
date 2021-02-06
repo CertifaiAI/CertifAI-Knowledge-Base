@@ -1,6 +1,6 @@
-# certifai-wiki
+# CertifAI-Knowledge-Based
 
-This is a documentation of issues that are faced by users. It aims to assist certifai support team to answer repeatedly asked questions by providing properly documented links.
+This is a documentation of issues that are faced by users. It aims to assist CertifAI support team to answer repeatedly asked questions by providing properly documented links.
 
 There are 5 categories:
 1. ClassifAI 
@@ -10,13 +10,30 @@ There are 5 categories:
 5. Learn-Java-the-CertifAI-Way 
 
 ## Process flow
-<p align="center">
-  <img align="middle" src="metadata/flow_chart.jpeg"/>
-</p>
 
+![](metadata/flow_chart.jpeg)
+
+# Supporting a user with an Issue
+### Step 1: Problem Identifying
+
+Here's a [Supporting Guidelines](https://github.com/CertifaiAI/CertifAI-Knowledge-Base/blob/main/SupportGuidelines.md) that may help you to identify user's problem.
+
+### Step 2: Check for Solutions in wiki
+
+List of solutions are provided in [wiki](https://github.com/CertifaiAI/certifai-wiki/wiki). 
+
+### Step 3: Reply to user
+
+- **If solution found in wiki**, you can reply the user with the link.
+
+- **If solution not found in wiki**, [raise an issue](https://github.com/CertifaiAI/CertifAI-Knowledge-Base#raising-issue) first, then send the issue link to user. Once documentation is ready in wiki, inform the user.
+
+Here's a [reply template](https://github.com/CertifaiAI/CertifAI-Knowledge-Base/wiki/Message-Template-for-Support) you can refer. It's optional to use this, but remember to be polite and professional.
 # Instruction of using the platform
 
 Please follow the instuctions while raising an issue. This will ensure the issue raised will be documented and traced properly.
+
+
 
 ## Raising issue
 Following links will lead you to the issue template for raising issue.
@@ -24,21 +41,22 @@ Following links will lead you to the issue template for raising issue.
 - [Computer Vision](https://github.com/CertifaiAI/certifai-wiki/issues/new?assignees=&labels=computer+vision+common+issue&template=computer-vision-issue.md&title=COMMON+ISSUE%3A+%5BISSUE+TITLE%5D)
 - [Time Series Labs](https://github.com/CertifaiAI/certifai-wiki/issues/new?assignees=&labels=time-series-labs+common+issue&template=time-series-labs-common-issue.md&title=COMMON+ISSUE%3A+%5BISSUE+TITLE%5D)
 - [Classifai](https://github.com/CertifaiAI/certifai-wiki/issues/new?assignees=&labels=classifai+common+issue&template=classifai_common_issue.md&title=COMMON+ISSUE%3A+%5BISSUE+TITLE%5D)
+- [Learn-Java-The-Certifai-Way](https://github.com/CertifaiAI/CertifAI-Knowledge-Base/issues/new?assignees=&labels=TrainingLabs+common+issue&template=learn-java-the-certifai-way-common-issue.md&title=%5BISSUE+TITLE%5D)
 
 ### What to Fill up in Issue Template
-<p align="center">
-  <img align="middle" src="metadata/3.png"/>
-</p>
+![](metadata/3.png)
 
-1. Title :  must be **short** and **informative**.
-2. Assignees : Assign yourself as the assignee
+1. Title :  must be **short** and **concise**.
+2. Assignees : Assign the issue to someone. It's either yourself, or anyone is responsible.
 3. Content: Provide the information as required in the template.
 4. Submit the issue first.
-5. Projects : Assign the related project as instructed in the *gif* below.
+5. Projects : Assign the related project as instructed in the *gif* below. Or, [add it manually](https://github.com/CertifaiAI/CertifAI-Knowledge-Base#projects) in [project](https://github.com/CertifaiAI/CertifAI-Knowledge-Base#projects)
 
-<p align="center">
-  <img align="middle" src="metadata/1.gif"/>
-</p>
+![](metadata/1.gif)
+
+####*How to add issue manually in project*
+![](metadata/2.gif)
+
 
 ## Projects
 Following links will lead you to the related project.
@@ -46,67 +64,58 @@ Following links will lead you to the related project.
 - [Computer Vision Support](https://github.com/CertifaiAI/certifai-wiki/projects/4)
 - [Time Series Labs Support](https://github.com/CertifaiAI/certifai-wiki/projects/3)
 - [Classifai Support](https://github.com/CertifaiAI/certifai-wiki/projects/2)
+- [Learn-Java-The-Certifai-Way Support](https://github.com/CertifaiAI/CertifAI-Knowledge-Base/projects/6)
 
 There are four columns in each project. Please place them at the right column. 
--  **help required**
+-  **to do**
    
-   The issue with help/solution required will put under this column.
--  **documented required**
+   The issue that needed to be solved will be put here.
+-  **in progress**
    
-   Answered issues but not documented will put under this column. Whenever a document is put in this column, make sure the issue is closed.
--  **documented**
+   Issue with solution is still under preparation will be put here. 
+-  **under revision**
 
-   Well documented issues will be put under this column.
--  **revision required**
+   Solution prepared that requires review / revision will be put here. **Tag** the senior engineers you would like them to review your solution.
+-  **solved (reviewed)**
+   
+   Solution upon approved will be put here.
 
-   Documented issues but required revision due to any reason will put under this column. Whenever a document is put in this column, make sure the issue is reopened.
-
-*How to move project from one column to another*
-
-<p align="center">
-  <img align="middle" src="metadata/0.gif"/>
-</p>
+####*How to move project from one column to another*
+![](metadata/0.gif)
 
 ## Documentation
-All answered issues must be documented properly in [wiki](https://github.com/CertifaiAI/certifai-wiki/wiki) with clear instructions/ screenshots. The documents are aimed to solve users problem without extra human assistant.
+All answered issues must be documented properly in [wiki](https://github.com/CertifaiAI/certifai-wiki/wiki) with clear instructions/ screenshots. The documents are aimed to solve users problem with minimal human assistant.
 
-1. Copy the title from project that is in the *documentation required* column
-<p align="center">
-  <img align="middle" src="metadata/4.png"/>
-</p>
+1. Create a new page
+![](metadata/10.png)
 
-2. Create a new page
-<p align="center">
-  <img align="middle" src="metadata/5.png"/>
-</p>
 
-3. Paste the title of issue as the tile of the page created. remove the **COMMON ISSUE:**
-<p align="center">
-  <img align="middle" src="metadata/6.png"/>
-</p>   
+2. Name the title as concise as possible. 
 
-4. Document the answer in the way that is easy to understand. You can follow the guidelines from the [template given](https://github.com/CertifaiAI/certifai-wiki/wiki/Wiki-Page-Template).
-   
+*Example*: To solve issue **Command Line is too long error**, the name of solution would be **Shorten Command Line**
 
-5. Edit the main page of wiki. 
-<p align="center">
-  <img align="middle" src="metadata/7.png"/>
-</p>
 
-6. Put it under the right category as the format: 
+3. Document the answer in the way that is easy to understand. You can follow the guidelines from the [template given](https://github.com/CertifaiAI/certifai-wiki/wiki/Wiki-Page-Template). In this step, you'll probably faced a problem on uploading media. We have a [walkaround](UploadMedia.md) for you.
+
+
+4. Edit the main page of wiki. 
+![](metadata/11.png)
+
+
+5. Put it under the right category as the format: 
    ```
    [Title](link to the page)
    ```
-<p align="center">
-  <img align="middle" src="metadata/8.png"/>
-</p>
+   ![](metadata/12.png)
 
-*result*
-<p align="center">
-  <img align="middle" src="metadata/9.png"/>
-</p>
+   *result*
+![](metadata/13.png)
 
-7. In the project, move to *documented* category.
+6. In the project, move the issue to *under revision* / *solved (reviewed)* column.
+
+
+7. Paste the solution link to the issue. Then add a *solved* label to the solved issue.
+![](metadata/14.png)
 
 ## Revision required
 If anyone finds a documentation is outdated/ not helpful, please follow steps below.
@@ -116,5 +125,5 @@ If anyone finds a documentation is outdated/ not helpful, please follow steps be
 2. End of the story.
 
 **Case 2**
-1. If you do not know the answer, reopen the issue, move it to *revision required* column, tag someone you think may help you.
-2. Once it is answered, move it to documentation required and close the issue. Wait for PIC to document it.
+1. If you do not know the answer, move it to *under revision* column, tag someone you think may help you.
+2. Once it is answered and well documented, move it back to *solved (reviewed)* column.
