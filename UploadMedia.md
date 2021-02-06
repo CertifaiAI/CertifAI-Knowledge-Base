@@ -3,6 +3,8 @@ We cannot directly drag the image to the wiki page to import it (like how it doe
 ### Step 1: Go to any issue 
 
 ### Step 2: Drag the image you wanted to upload to wiki to the comment block to generate a link
+
+*Note : You **DO NOT** need to comment*
 ![](metadata/3.gif)
 
 ### Step 3: You can use the link generated in your wiki page

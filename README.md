@@ -97,14 +97,14 @@ All answered issues must be documented properly in [wiki](https://github.com/Cer
 ![](metadata/16.png)
 
 
-3. Document the answer in the way that is easy to understand. You can follow the guidelines from the [template given](https://github.com/CertifaiAI/certifai-wiki/wiki/Wiki-Page-Template). In this step, you'll probably faced a problem on uploading media. We have a [walkaround](UploadMedia.md) for you.
+3. Document the answer in the way that is easy to understand. You can follow the guidelines from the [template given](https://github.com/CertifaiAI/certifai-wiki/wiki/Wiki-Page-Template). In this step, you'll probably face a **problem on uploading media**. We have a [walkaround](UploadMedia.md) for you.
 
 
-4. Edit the main page of wiki. 
+4. After preparing the solution, edit the main page of wiki. 
 ![](metadata/11.png)
 
 
-5. Put it under the right category as the format: 
+5. Put a link to your solution under the right category as the format: 
    ```
    [Title](link to the page)
    ```
