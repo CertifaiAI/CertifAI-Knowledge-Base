@@ -113,10 +113,10 @@ All answered issues must be documented properly in [wiki](https://github.com/Cer
    *result*
 ![](metadata/13.png)
 
-6. In the project, move the issue to *under revision* / *solved (reviewed)* column.
+6. In the project, move the issue to *under r1evision* / *solved (reviewed)* column.
 
 
-7. Paste the solution link to the issue. Then add a *solved* label to the solved issue.
+7. Paste the solution link to the issue. Then add a *solved* label to the solved issue. Lock the conversation.
 ![](metadata/14.png)
 
 ## Revision required
