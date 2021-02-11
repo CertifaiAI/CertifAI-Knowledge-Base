@@ -11,7 +11,7 @@ There are 5 categories:
 
 ## Process flow
 
-![](metadata/flow_chart.jpeg)
+![](metadata/flow_chart1.jpeg)
 
 # Supporting a user with an Issue
 ### Step 1: Problem Identifying
