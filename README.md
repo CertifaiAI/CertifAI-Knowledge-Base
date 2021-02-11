@@ -37,10 +37,10 @@ Please follow the instuctions while raising an issue. This will ensure the issue
 
 ## Raising issue
 Following links will lead you to the issue template for raising issue.
-- [TrainingLabs](https://github.com/CertifaiAI/certifai-wiki/issues/new?assignees=&labels=TrainingLabs+common+issue&template=traininglabs-common-issue.md&title=COMMON+ISSUES%3A+%5BISSUE+TITLE%5D)
-- [Computer Vision](https://github.com/CertifaiAI/certifai-wiki/issues/new?assignees=&labels=computer+vision+common+issue&template=computer-vision-issue.md&title=COMMON+ISSUE%3A+%5BISSUE+TITLE%5D)
-- [Time Series Labs](https://github.com/CertifaiAI/certifai-wiki/issues/new?assignees=&labels=time-series-labs+common+issue&template=time-series-labs-common-issue.md&title=COMMON+ISSUE%3A+%5BISSUE+TITLE%5D)
-- [Classifai](https://github.com/CertifaiAI/certifai-wiki/issues/new?assignees=&labels=classifai+common+issue&template=classifai_common_issue.md&title=COMMON+ISSUE%3A+%5BISSUE+TITLE%5D)
+- [TrainingLabs](https://github.com/CertifaiAI/CertifAI-Knowledge-Base/issues/new?assignees=&labels=TrainingLabs+common+issue&template=traininglabs-common-issue.md&title=%5BISSUE+TITLE%5D)
+- [Computer Vision](https://github.com/CertifaiAI/CertifAI-Knowledge-Base/issues/new?assignees=&labels=computer+vision+common+issue&template=computer-vision-issue.md&title=%5BISSUE+TITLE%5D)
+- [Time Series Labs](https://github.com/CertifaiAI/CertifAI-Knowledge-Base/issues/new?assignees=&labels=time-series-labs+common+issue&template=time-series-labs-common-issue.md&title=%5BISSUE+TITLE%5D)
+- [Classifai](https://github.com/CertifaiAI/CertifAI-Knowledge-Base/issues/new?assignees=&labels=classifai+common+issue&template=classifai_common_issue.md&title=%5BISSUE+TITLE%5D)
 - [Learn-Java-The-Certifai-Way](https://github.com/CertifaiAI/CertifAI-Knowledge-Base/issues/new?assignees=&labels=TrainingLabs+common+issue&template=learn-java-the-certifai-way-common-issue.md&title=%5BISSUE+TITLE%5D)
 
 ### What to Fill up in Issue Template
