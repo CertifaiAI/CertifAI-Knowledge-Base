@@ -1,4 +1,4 @@
-# CertifAI-Knowledge-Based
+# CertifAI-Knowledge-Base
 
 This is a documentation of issues that are faced by users. It aims to assist CertifAI support team to answer repeatedly asked questions by providing properly documented links.
 
