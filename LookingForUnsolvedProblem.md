@@ -1,5 +1,5 @@
 # Looking for unsolved problem
-Some problem may not be assigned to a specific contributor to in charge of...\
+Some problem may not be assigned to a specific contributor to take in charge of...\
 To whom may want to solve more problems than what you were assigned. You can try to look for the unsolved issue.
 
 ## Steps to look for unsolved issue
